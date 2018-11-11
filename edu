@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Институт Цифровой Экономики</title>
+<meta name="description" content="Цифровая экономика. Цифровые платформы. Блокчейн">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<!-- Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#000">
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="#000">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="#000">
+<link rel="stylesheet" href="css/main.css">
+<link href="css/css.css" rel="stylesheet">
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<main>
+
+
+<section class="libre">
+<div class="container">
+	<h1 class="h1">Образовательный курс: <span>Введение в Цифровую Экономику</span></h1>
+
+	<p style="text-align: center;">
+	Digital Economy Institute (DEI)
+	</p>
+
+	<h2>Для кого?</h2>
+
+	<ol>
+	<li>Для владельцев компаний
+	<li>Для руководителей любого уровня
+	<li>Для чиновников любого ранга, кто верит в цифровую трансформацию
+	<li>Для стратегически думающих людей
+	</ol>
+
+	<p>
+	Цифровая экономика стала одним из основных направлений стратегического развития РФ до 2025 года. Корпорации уже начали формировать департаменты по Цифровой трансформации, но столкнулись с дефицитом специалистов.
+	</p>
+
+	<p>
+	Россия взяла курс на создание Цифровой экономики.
+	В ближайшие десятилетия все отрасли, рынки, направления деятельности будут переориентированы в соответствии с требованиями новых цифровых экономических моделей. Новая экономика требует новых специалистов.
+	</p>
+</div>
+</section>
+
+
+</main>
+
+<footer class="footer">
+<div class="container">
+	<h1 class="h1">контакты</h1>
+	<div class="footer__top">
+		<div class="contacts">
+			<a href="tel:89252658808">Телефон: <span>+7 925 265 88 08</span></a>
+			<a href="mailto:info@libre.center">Почта: <span>ya@dei.su</span></a>
+		</div>
+		<div class="socials">
+			<a href="https://fb.com/libremoney" title="Facebook" target="_blank">
+				<i class="fa fa-facebook" aria-hidden="true"></i>
+			</a>
+			<a href="https://vk.com/librecenter" title="VKontakte" target="_blank">
+				<i class="fa fa-vk" aria-hidden="true"></i>
+			</a>
+			<a href="https://medium.com/@LibreCenterRu" title="Medium" target="_blank">
+				<i class="fa" aria-hidden="true"><b>M</b></i>
+			</a>
+			<a href="https://t.me/LibreCenter" title="Telegramm chanel" target="_blank">
+				<i class="fa" aria-hidden="true"><b>T</b></i>
+			</a>
+		</div>
+	</div>
+	<div class="footer__btm">
+		<span>© 2018</span>
+		<img src="img/logo.svg" alt="">
+	</div>
+</div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="refresh" content="1,url=ru"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Digital economy. Digital platforms. Ecosystem. Blockchain">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+
+<meta property="og:image" content="path/to/image.jpg">
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-touch-icon-114x114.png">
+
+<!-- Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#000">
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="#000">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="#000">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/css.css">
+<title>Digital Economy Institute</title>
+</head>
+<body>
+
+
+<header class="header">
+<div class="container">
+	<div class="logo">
+		<img src="img/logo.svg" alt="">
+	</div>
+	<div class="lang">
+		<a href="ru"><img src="img/lang/ru2.png" alt=""></a>
+	</div>
+	<nav class="nav">
+		<div class="nav__img"><img src="img/l-white.png" alt=""></div>
+		<a href="#social" class="nav__item" style="background:url(img/menu.svg) no-repeat -3px 0;background-size:601%;left:50%;"></a>
+		<a href="#industrial" class="nav__item" style="background:url(img/menu.svg) no-repeat -199px 0;background-size:601%;left:calc(50% + 160px);top:89px"></a>
+		<a href="#culture" class="nav__item" style="background:url(img/menu.svg) no-repeat -395px 0;background-size:601%;left:calc(50% + 160px);top:268px"></a>
+		<a href="#more" class="nav__item" style="background:url(img/menu.svg) no-repeat -591.5px 0;background-size:601%;left:50%;top:358px"></a>
+		<a href="#administration" class="nav__item" style="background:url(img/menu.svg) no-repeat -788px 0;background-size:601%;top:89px;left:calc(50% - 160px)"></a>
+		<a href="#consumer" class="nav__item" style="background:url(img/menu.svg) no-repeat -984px 0;background-size:601%;top:268px;left:calc(50% - 160px)"></a>
+	</nav>
+	<div class="info">
+		<a href="#ecosystem"><div style="text-decoration:underline;right:70px;font-size:1.7rem">Ecosystem</div></a>
+		<a href="#platform"><div style="text-decoration:underline;right:20px;font-size:1.3rem">Platforms</div></a>
+		<a href="#fund"><div style="text-decoration:underline;right:0px;font-size:1.3rem">Fund</div></a>
+		<a href="#token"><div style="text-decoration:underline;right:20px;font-size:1.3rem">Tokens</div></a>
+		<a href="#team"><div style="text-decoration:underline;right:70px;font-size:1.7rem">Team</div></a>
+	</div>
+</div>
+</header>
+
+
+<a name="libre"></a>
+<section class="libre">
+<div class="container">
+	<h1 class="h1">Libre<span>.Center</span></h1>
+	<p style="text-align: left; padding-top: 0.5em; padding-bottom: 0.5em;">
+	LibreCenter is an IT company dedicated to developing digital economic platforms. LibreCenter provides consultations for platform developers, educational services, community involvement (investors and clients for platforms), attraction of production companies, end users, logistics companies, financial companies.
+	</p>
+	<p style="text-align: left; padding-top: 0.5em; padding-bottom: 0.5em;">
+	The cost of developing the technical part of each platform from $ 100'000. The total cost of attracting customers for each platform is estimated at $ 1'000'000.
+	</p>
+	<p style="text-align: left; padding-top: 0.5em; padding-bottom: 0.5em;">
+	According to the forecasts of the Digital Platform Foundation (FTP) in the next few years there will be a massive request for the creation of platforms and ecosystems. It is estimated that around 1000 platforms are expected in the world by types of activity and about 25 large industrial platforms.
+	</p>
+</div>
+</section>
+
+
+<a name="ecosystem"></a>
+<section class="ecosystem">
+<div class="container">
+	<h1 class="h1">Ecosystem <span>Libre</span></h1>
+	<p>
+	The economic system (ecosystem) is the aggregate of all economic processes taking place in society on the basis of the relations of property and economic mechanism that have developed in it. (Wikipedia)
+	</p>
+	<!--h2 class="h2"><span>Mission</span></h2-->
+	<p style="text-align: left; padding-top: 0.5em; padding-bottom: 0.5em;">
+	The Libre ecosystem is designed to meet the vital needs of every person. For this, distributed economic and social platforms are realized. In total, about 1000 different platforms by type of activity and by industry. The Libre Foundation is designed to invest in the creation of digital platforms, in individual projects and in the creation of the digital economy as a whole.
+	</p>
+	<p style="text-align: left; padding-top: 0.5em; padding-bottom: 0.5em;">
+	The Libre ecosystem includes platforms, funds, platform tokens, Libre tokens.
+	</p>
+</div>
+</section>
+
+
+<a name="platform"></a>
+<section class="platform">
+<div class="container">
+	<h1 class="h1">Digital <span>platforms</span></h1>
+	<p style="text-align: left; padding-top: 0.5em; padding-bottom: 0.5em;">
+	<b>Platform</b> is actually a marketplace with payment between participants in the local currency of the platform. The platforms can be centralized and decentralized. Decentralized (distributed) platforms are more preferable, because allow participants to own their money themselves and not be afraid of blocking money and digital assets.
+	</p>
+	<p style="text-align: left; padding-top: 0.5em; padding-bottom: 0.5em;">
+	A more precise definition:
+	<br/>
+	<b>Digital platform</b> - is a system of relationships between a significant number of market participants (producers, consumers, agents, investors, insurance companies, etc.), united by a single information environment and leading to a reduction in transaction costs through the use of a digital technology package, <b>including blocking technology</b>.
+	</p>
+	<p style="text-align: left; padding-top: 0.5em; padding-bottom: 0.5em;">
+	Definition of DPF (Digital Platforms Fund):
+	<br/>
+	<b>Digital platform Цифровая платформа</b> - is a system of algorithmic relationships of a significant number of market participants, united by a single information environment, leading to a reduction in transaction costs, through the use of a digital technology package and leading to a change in the division of labor system.
+	</p>
+</div>
+</section>
+
+
+<section class="platform1">
+<div class="container">
+	<a name="consumer"></a>
+	<p>According to OKVED, the following economic platforms can be distinguished. For convenience, it has been proposed to divide into two groups: production of means of production (group A) and production of consumer goods (group B).</p-->
+	<h1 class="h1">Consumer <span>distributed platforms</span></h1>
+	<p>Goods and services of national consumption (Group B):</p>
+	<ul>
+		<li>Food (agriculture, hunting and forestry, fishing, fish farming)</li>
+		<li>Housing (habitat, house, hotels and restaurants, real estate transactions, rental and provision of services, ecology and disposal)</li>
+		<li>Household products, clothing and personal items (light industry, repair of household goods and personal items)</li>
+		<li>Household services (communication and communication, provision of other communal, social and personal services)</li>
+		<li>Tourism, leisure, passenger and personal transport</li>
+		<li>Wholesale and retail trade</li>
+	</ul>
+	<img src="img/20.png" alt="">
+	<div class="hr"></div>
+</div>
+</section>
+
+
+<section class="platform2">
+<div class="container">
+	<a name="industrial"></a>
+	<h1 class="h1">Industrial <span>distributed platforms</span></h1>
+	<p>Production of the means of production (Group A):</p>
+	<ul>
+		<li>Mining</li>
+		<li>Production and distribution of electricity, gas and other energy carriers</li>
+		<li>Manufacturing Processes</li>
+		<li>Mechanical engineering</li>
+		<li>Building</li>
+		<li>Logistics, cargo transportation, transport (including repair of vehicles, motorcycles)</li>
+	</ul>
+	<img src="img/30.png" alt="">
+</div>
+</section>
+
+
+<section class="platform3">
+<div class="container">
+	<a name="social"></a>
+	<h1 class="h1">Social <span>distributed platforms</span></h1>
+	<ul>
+		<li>Security (ensuring physical, including military security, courts of law)</li>
+		<li>Health (medicine, physical culture)</li>
+		<li>Education, culture and art, science and scientific services, media</li>
+		<li>Finance, credit, insurance, pensions, basic income</li>
+		<li>Social insurance, public associations, the provision of social services, employment centers, organizations of assistance to entrepreneurs, charitable organizations, industry and professional associations</li>
+		<li>Management (state, district, regional, district)</li>
+	</ul>
+	<img src="img/40.png" alt="">
+	<div class="hr"></div>
+</div>
+</section>
+
+
+<a name="fund"></a>
+<section class="fond">
+<div class="container clearfix">
+	<h1 class="h1">Libre <span>Fund</span></h1>
+	<p>
+	The Libre Foundation is a portfolio of shares of industry platforms. Tokens of each of the economic and social platforms are included in the Libre fund at least 1%. In addition, the fund includes platform tokens by types of activities and project tokens. The estimated balance of the portfolio is as follows:
+	</p>
+	<img src="img/02.png" alt="">
+	<ul>
+		<li>40% - Industry Platforms</li>
+		<li>30% - By type of activity</li>
+		<li>20% - Economic projects (manufacture)</li>
+		<li>10% - Libre projects</li> <!-- LibreBank, LibreCash, LibreMoney -->
+	</ul>
+</div>
+</section>
+
+
+<a name="token"></a>
+<section class="token">
+<div class="container">
+	<h1 class="h1">Tokens</h1>
+	<p>
+	The Libre ecosystem provides a common infrastructure for all economic platforms. In the Libre ecosystem, two kinds of tokens:
+	</p>
+	<ul>
+		<li><i>Libre tokens</i> - are growing assets and are limited to 100 million units.</li>
+		<li><i>Operating tokens</i> are stable internal accounting and accounting units.</li>
+	</ul>
+	<div class="hr"></div>
+	<article>
+		<details>
+		<summary><h2 class="h2" style="text-decoration: none; border-bottom: #000 2px dotted;">Libre tokens</h2></summary>
+		<center>
+			The Libre tokens are the shares of the Libre Foundation.
+			<br>
+			Total number of tokens: <i>100'000'000</i>
+			<br>
+			Libre tokens released on the <i>Waves</i> platform
+			<br>
+			Token-ID: 8qqoeygkNFqSjqf8JrB1LtzkCPTS3zJPe3LHDotTJvdH
+		</center>
+		<img src="img/01.png" alt="">
+		<div class="hr"></div>
+		</details>
+	</article>
+	<article>
+		<details>
+		<summary><h2 class="h2" style="text-decoration: none; border-bottom: #000 2px dotted;">Operational tokens</h2></summary>
+		<p>
+		Operational tokens in the Libre ecosystem are internal accounting and accounting units. One of the operational tokens within the ecosystem is LibreMoney tokens.
+		<br><br>
+		Operating tokens - are internal accounting units for economic activity (as a measure of value when making deals and as a means of payment). The calculated tokens are not intended for accumulation. Moreover, for the development of the economy, the accumulation of money is a harmful function, for the development of the economy, the turnover of settlement tokens should be as fast as possible. To stimulate turnover, for idle of settlement tokens on accounts a fee (demurrage) is introduced.
+		</p>
+		<div class="hr"></div>
+		<h2 class="h2">LibreMoney tokens</h2>
+		<p>
+		Release of LibreMoney tokens is limited only by the mechanism of consensus. Release of new LibreMoney tokens is made on the basis of successfully implemented publicly significant crowds. First of all, the new LibreMoney tokens are received by the authors of OpenSource projects: creators of films, music, technology, software OpenSource products. The authors of the projects receive new LibreMoney as an award for their work. Due to the fact that new tokens are released only for created values ​​- that is why we call LibreMoney secured. Provision of non-material socially significant products.
+		<br><br>
+		The LibreMoney tokens are designed to serve as a measure of value. The LibreMoney token was decided to be tied at a price to gold as the most liquid and stable financial instrument, as well as to the average salary. The recommended cost of one LibreMoney token is 0.77 grams of pure gold (equal to 1 gold Soviet ruble and approximately equal to 2,000 rubles or $32).
+		</p>
+		<!--h2 class="h2">LibreCash</h2-->
+		</details>
+	</article>
+	<div class="fond__items">
+		<details>
+		<summary><h2 class="h2" style="text-decoration: none; border-bottom: #000 2px dotted;">Crowdsale (ICO/ITO)</h2></summary>
+		<div class="fond__item">
+			<p>Selling tokens:</p>
+			<ul>
+				<li>10% - first investors (preITO)</li>
+				<li>60% - selling tokens on ITO </li>
+			</ul>
+		</div>
+		<div class="hr"></div>
+		<div class="fond__item">
+			<h2 class="h2">preITO</h2>
+			<p>
+				<b>The goal for preITO:</b> $500'000<br>
+				<b>Number of tokens for sale:</b> 10'000'000<br>
+				<b>The initial price of tokens on preITO:</b> $0.01<br>
+				<b>The average price of current for preITO:</b> $0.05<br>
+				<b>The final price of tokens on preITO:</b> $0.25<br>
+				<b>The preITO:</b> term is prolonged during 2017-2018, with the sale of 100,000 tokens incrementally (0.1% of the total volume) with an increase in the price of x2 in each subsequent step.
+			</p>
+		</div>
+		<div class="hr"></div>
+		<div class="fond__item">
+			<h2 class="h2">ITO</h2>
+			<p>
+				<b>The goal for ITO:</b> $60'000'000<br>
+				<b>Number of tokens for sale:</b> 60'000'000<br>
+				<b>The initial price of tokens on ITO:</b> $0.5<br>
+				<b>The average price of current for preITO:</b> $1.0<br>
+				<b>The final price of tokens on preITO:</b> $2.0<br>
+				<b>The term of the ITO:</b> prolonged during 2018-2020.
+			</p>
+		</div>
+		</details>
+	</div>
+</div>
+</section>
+
+
+<a name="team"></a>
+<section class="team">
+<div class="container">
+	<h1 class="h1">Team</h1>
+	<div class="team__list">
+		<div class="team__item">
+			<div class="team__photo">
+				<img src="img/team_1.png" alt="">
+			</div>
+			<div class="team__name">Yaroslav <span>Loginov</span></div>
+			<div class="team__prof">Founder, CEO</div>
+			<div class="team__social">
+				<a href="https://fb.com/prof1983">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+				<a href="https://vk.com/prof1983">
+					<i class="fa fa-vk" aria-hidden="true"></i>
+				</a>
+			</div>
+			<!-- ya@libre.center -->
+		</div>
+		<div class="team__item">
+			<div class="team__photo">
+				<img src="img/team_2.png" alt="">
+			</div>
+			<div class="team__name">Grigorij <span>Slynko</span></div>
+			<div class="team__prof">Co-founder</div>
+			<div class="team__social">
+				<a href="https://fb.com/gregfili">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+			</div>
+			<!-- gs@libre.center -->
+		</div>
+		<!--div class="team__item">
+			<div class="team__photo">
+				<img src="img/team_6.png" alt="">
+			</div>
+			<div class="team__name">Gleb <span>Baharev</span></div>
+			<div class="team__prof">Co-founder</div>
+			<div class="team__social">
+				<a href="https://fb.com/gleb.baharev.7">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+			</div>
+		</div-->
+		<div class="team__item">
+			<div class="team__photo">
+				<img src="img/team_0.png" alt="">
+			</div>
+			<div class="team__name">You</div>
+			<div class="team__prof"></div>
+		</div>
+	</div>
+</div>
+</section>
+
+
+<a name="footer"></a>
+<footer class="footer">
+<div class="container">
+	<h1 class="h1">Contacts</h1>
+	<div class="footer__top">
+		<div class="contacts">
+			<a href="tel:89252658808">Phone: <span>+7 925 265 88 08</span></a>
+			<a href="mailto:ya@dei.su">Email: <span>ya@dei.su</span></a>
+		</div>
+		<!--div class="socials">
+			<a href="https://fb.com/libremoney" title="Facebook" target="_blank">
+				<i class="fa fa-facebook" aria-hidden="true"></i>
+			</a>
+			<a href="https://vk.com/librecenter" title="VKontakte" target="_blank">
+				<i class="fa fa-vk" aria-hidden="true"></i>
+			</a>
+			<a href="https://medium.com/@LibreCenterRu" title="Medium" target="_blank">
+				<i class="fa" aria-hidden="true"><b>M</b></i>
+			</a>
+			<a href="https://t.me/LibreCenter" title="Telegramm chanel" target="_blank">
+				<i class="fa" aria-hidden="true"><b>T</b></i>
+			</a>
+		</div-->
+	</div>
+	<div class="footer__btm">
+		<span>© 2016-2018</span>
+		<img src="img/logo.svg" alt="">
+	</div>
+</div>
+</footer>
+
+
+</body>
+</html>

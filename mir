@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/css.css" />
+<title>Проект МИР - DEI</title>
+</head>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<nav></nav><script src="js/nav.js"></script>
+<body>
+
+<main>
+
+<h1>Проект МИР</h1>
+
+<p class="h">
+Блокчейн решения конвергенции социокультурных технологий и платформа сборки субъектов развития с открытым кодом
+</p>
+
+<p class="h">
+<a href="http://mir.one">mir.one</a>
+</p>
+
+<p class="h">
+<a href="http://mir.dei.su">mir.dei.su</a>
+</p>
+
+
+
+
+<h2>Токены проекта МИР</h2>
+
+<p>
+id: <b>HdPJha3Ekn1RUR2K9RrY7SG9xK1b21AHPwkL8pcwTmSZ</b>
+<br/>
+Выпущенны на блокчейн-платформе Waves.
+</p>
+
+
+</main><script src="js/main.js"></script>
+<footer></footer><script src="js/footer.js"></script>
+</body>
+</html>
