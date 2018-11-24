@@ -297,6 +297,7 @@ Digital Economy Institute (DEI) of name Viktor Glushkov
 					<i class="fa fa-facebook" aria-hidden="true"></i>
 				</a>
 			</div>
+			<p>dao@mir.one</p>
 		</div>
 		<div class="team__item">
 			<div class="team__photo">
