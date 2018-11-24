@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="stylesheet" href="css/main.css">
+<title>Устав - DEI</title>
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<main>
+
+<h1>Устав</h1>
+
+<p>
+<a href="https://docs.google.com/document/d/14OsgZKXQ8-EFRPv_5cq-8qp_BayK1HHeim6QX_BNZxQ/edit?usp=sharing" target="_blank">Устав на ГуглДиске</a>
+</p>
+
+<p>
+<a href="https://github.com/libremir/law" target="_blank">Правила игры</a>
+</p>
+
+</main>
+
+</body>
+</html>
