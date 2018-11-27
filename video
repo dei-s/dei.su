@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8" />
+<meta name="description" content="Цифровая экономика. Цифровые платформы. Блокчейн">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<meta name="theme-color" content="#242424">
+<meta name="msapplication-navbutton-color" content="#242424">
+<meta name="apple-mobile-web-app-status-bar-style" content="#242424">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="stylesheet" href="css/base.css">
+<title>Видео - DEI</title>
+</head>
+<body><script src="js/init.js"></script>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<article>
+
+<h1>Видео</h1>
+
+
+<h3>Выступление в Н.Новгороде</h3>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fFNpqC3wvKc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zV789YV5_Mg" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+
+<h3>Первая (вводная) лекция в RMA</h3>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/f9ZtvraanzU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+
+<h3>Григорий Слынько на канале NANO</h3>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/PsqGXXj3EvY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+Применение блокчейна в бизнесе. Часть 1
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9FEzJN_D4gw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+Применение блокчейна в бизнесе. Часть 2
+</figure>
+
+
+<h3>Ярослав Логинов на канале NANO</h3>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/77thWUphW6s" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+
+<h3>Лекция в РАНХиГС</h3>
+
+<figure>
+<a href="https://www.youtube.com/watch?v=3YeBP2gcEAQ&list=PLkeWIIPeZ876ymb_haBVc3iNKSgNZLokh" target="_blank"><img src="img/edu/1.jpg"/></a>
+<!--iframe width="640" height="360" src="https://www.youtube.com/embed/3YeBP2gcEAQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
+<br/>
+Лекции в РАНХиГС: <a href="https://www.youtube.com/watch?v=3YeBP2gcEAQ&list=PLkeWIIPeZ876ymb_haBVc3iNKSgNZLokh" target="_blank">https://www.youtube.com/watch?v=3YeBP2gcEAQ&list=PLkeWIIPeZ876ymb_haBVc3iNKSgNZLokh</a>
+</figure>
+
+
+
+
+</article>
+<footer></footer><script src="js/footer.js"></script>
+</body>
+</html>
