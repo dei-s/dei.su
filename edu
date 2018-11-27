@@ -1,90 +1,147 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Институт Цифровой Экономики</title>
+<meta charset="utf-8" />
 <meta name="description" content="Цифровая экономика. Цифровые платформы. Блокчейн">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="format-detection" content="telephone=no">
 <meta name="format-detection" content="address=no">
+<meta name="theme-color" content="#242424">
+<meta name="msapplication-navbutton-color" content="#242424">
+<meta name="apple-mobile-web-app-status-bar-style" content="#242424">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <link rel="shortcut icon" href="img/favicon.png" type="image/png">
-<!-- Chrome, Firefox OS and Opera -->
-<meta name="theme-color" content="#000">
-<!-- Windows Phone -->
-<meta name="msapplication-navbutton-color" content="#000">
-<!-- iOS Safari -->
-<meta name="apple-mobile-web-app-status-bar-style" content="#000">
-<link rel="stylesheet" href="css/main.css">
-<link href="css/css.css" rel="stylesheet">
+<link rel="stylesheet" href="css/base.css">
+<title>Образование - DEI</title>
 </head>
-<body>
+<body><script src="js/init.js"></script>
 <noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
 <header></header><script src="js/header.js"></script>
-<main>
+
+<figure>
+<img src="img/edu.jpg">
+</figure>
+
+<article>
+
+<h1>Образование</h1>
 
 
-<section class="libre">
-<div class="container">
-	<h1 class="h1">Образовательный курс: <span>Введение в Цифровую Экономику</span></h1>
+<h3>Выступление в Н.Новгороде</h3>
 
-	<p style="text-align: center;">
-	Digital Economy Institute (DEI)
-	</p>
+<figure>
+<a href="video#4"><img src="img/edu/4.jpg"/></a>
+</figure>
 
-	<h2>Для кого?</h2>
-
-	<ol>
-	<li>Для владельцев компаний
-	<li>Для руководителей любого уровня
-	<li>Для чиновников любого ранга, кто верит в цифровую трансформацию
-	<li>Для стратегически думающих людей
-	</ol>
-
-	<p>
-	Цифровая экономика стала одним из основных направлений стратегического развития РФ до 2025 года. Корпорации уже начали формировать департаменты по Цифровой трансформации, но столкнулись с дефицитом специалистов.
-	</p>
-
-	<p>
-	Россия взяла курс на создание Цифровой экономики.
-	В ближайшие десятилетия все отрасли, рынки, направления деятельности будут переориентированы в соответствии с требованиями новых цифровых экономических моделей. Новая экономика требует новых специалистов.
-	</p>
-</div>
-</section>
+<!--figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fFNpqC3wvKc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zV789YV5_Mg" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure-->
 
 
-</main>
+<h3>Григорий Слынько на канале NANO</h3>
 
-<footer class="footer">
-<div class="container">
-	<h1 class="h1">контакты</h1>
-	<div class="footer__top">
-		<div class="contacts">
-			<a href="tel:89252658808">Телефон: <span>+7 925 265 88 08</span></a>
-			<a href="mailto:info@libre.center">Почта: <span>ya@dei.su</span></a>
-		</div>
-		<div class="socials">
-			<a href="https://fb.com/libremoney" title="Facebook" target="_blank">
-				<i class="fa fa-facebook" aria-hidden="true"></i>
-			</a>
-			<a href="https://vk.com/librecenter" title="VKontakte" target="_blank">
-				<i class="fa fa-vk" aria-hidden="true"></i>
-			</a>
-			<a href="https://medium.com/@LibreCenterRu" title="Medium" target="_blank">
-				<i class="fa" aria-hidden="true"><b>M</b></i>
-			</a>
-			<a href="https://t.me/LibreCenter" title="Telegramm chanel" target="_blank">
-				<i class="fa" aria-hidden="true"><b>T</b></i>
-			</a>
-		</div>
-	</div>
-	<div class="footer__btm">
-		<span>© 2018</span>
-		<img src="img/logo.svg" alt="">
-	</div>
-</div>
-</footer>
+<figure>
+<a href="video#3"><img src="img/edu/3.jpg"/></a>
+</figure>
 
+<!--figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/PsqGXXj3EvY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+Применение блокчейна в бизнесе. Часть 1
+<br/>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9FEzJN_D4gw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+Применение блокчейна в бизнесе. Часть 2
+</figure-->
+
+
+<h3>Ярослав Логинов на канале NANO</h3>
+
+<figure>
+<a href="video#5"><img src="img/edu/5.jpg"/></a>
+</figure>
+
+<!--figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/77thWUphW6s" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure-->
+
+
+<h3>Вводная лекция в RMA</h3>
+
+<figure>
+<a href="video#2"><img src="img/edu/2.jpg"/></a>
+</figure>
+
+<!--figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/f9ZtvraanzU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure-->
+
+
+<h3>Лекция в РАНХиГС</h3>
+
+<figure>
+<a href="https://www.youtube.com/watch?v=3YeBP2gcEAQ&list=PLkeWIIPeZ876ymb_haBVc3iNKSgNZLokh" target="_blank"><img src="img/edu/1.jpg"/></a>
+<!--iframe width="640" height="360" src="https://www.youtube.com/embed/3YeBP2gcEAQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
+<!--br/>
+Лекции в РАНХиГС: <a href="https://www.youtube.com/watch?v=3YeBP2gcEAQ&list=PLkeWIIPeZ876ymb_haBVc3iNKSgNZLokh" target="_blank">https://www.youtube.com/watch?v=3YeBP2gcEAQ&list=PLkeWIIPeZ876ymb_haBVc3iNKSgNZLokh</a-->
+</figure>
+
+
+
+
+<h2>Образовательные курсы</h2>
+
+<p>
+<a href="edu_intro"><b>Образовательный курс: <span>Введение в Цифровую Экономику</span></b></a>
+</p>
+
+<p>
+<a href="edu_transform"><b>Образовательный курс по цифровой трансформации</b></a>
+<!-- На тему Цифровой трансформации пока есть только блок про блокчейн и криптовалюты. Остальные блоки готова на 20..50%. -->
+</p>
+
+
+
+
+<h2>Услуги</h2>
+
+<ul>
+<li>Консультации - <b>5 тыс.руб</b> в час
+<li>Лекция про основы блокчейна - <b>20 тыс.руб</b> (4 академических часа)
+<li>Лекция про основы нейронных сетей и искусственного интеллекта - <b>20 тыс.руб</b> (4 академических часа)
+<li>Лекция про основы цифровой трансформации (вводная лекция) - <b>20 тыс.руб</b> (4 академических часа)
+<li>Образовательный курс "Блокчейн бизнес" - <b>250 тыс.руб</b> (четыре недели, по три занятия в неделю, по 4 академических часа каждое занятие. Кол-во слушателей от 5 до 15 человек)
+<li>Образовательный курс "Цифровая трансформация" (9 месяцев по 3 занятия в неделю по 4 академических часа. Кол-во слушателей от 5 до 15 человек)
+</ul>
+
+<p>
+Виды образования/консультаций:
+</p>
+
+<ul>
+<li>Offline
+<li>Online (real-time)
+<li>Видео (интерактивный курс)
+</ul>
+
+
+<p>
+Дополнительные услуги:
+</p>
+
+<ul>
+<li>Вебинары
+<li>Организация хакатона.
+<li>Организация митапов.
+<li>Выдача сертификатов.
+</ul>
+
+<p>
+Командировочные затраты оплачиваются отдельно.
+</p>
+
+</article>
+<footer></footer><script src="js/footer.js"></script>
 </body>
 </html>
