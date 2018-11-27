@@ -22,8 +22,8 @@
 <meta name="msapplication-navbutton-color" content="#000">
 <!-- iOS Safari -->
 <meta name="apple-mobile-web-app-status-bar-style" content="#000">
+<link rel="stylesheet" href="css/base.css">
 <link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="css/css.css">
 <title>Digital Economy Institute</title>
 </head>
 <body>
