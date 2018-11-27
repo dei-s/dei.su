@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Цифровая экономика, цифровая трансформация, цифровые платформы, экосистемы, блокчейн" />
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<meta name="theme-color" content="#242424">
+<meta name="msapplication-navbutton-color" content="#242424">
+<meta name="apple-mobile-web-app-status-bar-style" content="#242424">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="stylesheet" href="css/base.css">
+<title>Введение в Цифровую Экономику - DEI</title>
+</head>
+<body><script src="js/init.js"></script>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+
+<figure>
+<a href="img/edu/2b.jpg"><img src="img/edu2.jpg"></a>
+</figure>
+
+<article>
+
+<h1>Образовательный курс: <span>Введение в Цифровую Экономику</span></h1>
+
+<p style="text-align: center;">
+Digital Economy Institute (DEI)
+</p>
+
+<h2>Для кого?</h2>
+
+<ol>
+<li>Для владельцев компаний
+<li>Для руководителей любого уровня
+<li>Для чиновников любого ранга, кто верит в цифровую трансформацию
+<li>Для стратегически думающих людей
+</ol>
+
+<p>
+Цифровая экономика стала одним из основных направлений стратегического развития РФ до 2025 года. Корпорации уже начали формировать департаменты по Цифровой трансформации, но столкнулись с дефицитом специалистов.
+</p>
+
+<p>
+Россия взяла курс на создание Цифровой экономики.
+В ближайшие десятилетия все отрасли, рынки, направления деятельности будут переориентированы в соответствии с требованиями новых цифровых экономических моделей. Новая экономика требует новых специалистов.
+</p>
+
+
+</article>
+
+<footer></footer><script src="js/footer.js"></script>
+</body>
+</html>
