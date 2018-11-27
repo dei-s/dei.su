@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8"/>
 <link rel="shortcut icon" href="img/favicon.png" type="image/png">
-<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/base.css">
 <title>Проект "Platform" - DEI</title>
 </head>
 <body>
 <noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
 <header></header><script src="js/header.js"></script>
-<main>
+<article>
 
 <h1>Проект "Platform"</h1>
 
@@ -115,7 +115,7 @@ id: <b>8Wj49jM8y9qfFx2QG6HxQXbiaxdnTt8EGm8mEqXJWFL4</b>
 </p>
 
 
-</main>
-
+</article>
+<footer></footer><script src="js/footer.js"></script>
 </body>
 </html>
