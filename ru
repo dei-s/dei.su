@@ -50,6 +50,8 @@
 </header>
 
 
+
+
 <a name="libre"></a>
 <section class="libre">
 <div class="container">
@@ -68,14 +70,25 @@ Digital Economy Institute (DEI) of name Viktor Glushkov
 <br/>
 <a href="http://deei.ru" target="_blank">АНО "Институт Развития Цифровой Экономики"</a> (ИРЦЭ)
 </p>
+
 <figure>
 <img src="/img/struct1.png">
 </figure>
 <figure>
 <img src="/img/struct2.png">
 </figure>
+
+<!--h1 class="h1">Проекты</h1>
+<a href="http://mir.dei.su"><b>МИР</b></a>
+<a href="http://projects.dei.su" target="_blank">
+<img src="img/icon-projects.svg" />
+PROJECTS
+</a-->
+
 </div>
 </section>
+
+
 
 
 <a name="ecosystem"></a>
@@ -205,13 +218,8 @@ Digital Economy Institute (DEI) of name Viktor Glushkov
 	<p>
 	Объективно оценивая вышеизложенную ситуацию и сопоставляя её с предложенным проектом программы Правительства РФ по развитию Цифровой Экономики, эксперты Фонда Цифровых Платформ считают необходимым сфокусировать программу на: Комплексе мер по ускоренному созданию Цифровых Платформ во всех индустриях и сферах жизнедеятельности, с последующим расширением на ЕАЭС. (<a href="http://dpfund.ru" target="_blank">ФЦП</a>)
 	</p>
-</div>
-</section>
 
 
-<a name="fund"></a>
-<section class="fond">
-<div class="container clearfix">
 	<h2>~ 2700 видов деятельности (по данным ОКВЭД 2)</h2>
 
 	<p>
@@ -225,11 +233,56 @@ Digital Economy Institute (DEI) of name Viktor Glushkov
 	<p>
 	"Институт Цифровой Экономики" создан для реализации цифровых платформ и популяризации идей цифровой экономики, их роли в экономике и возможностях, открывающихся для предпринимателей с началом массового создания цифровых платформ.
 	</p>
-
-	<!--h1 class="h1">Проекты</h1>
-	<a href="http://mir.dei.su"><b>МИР</b></a-->
 </div>
 </section>
+
+
+
+
+<a name="wallets"></a>
+<section class="s-section s-section2">
+<div class="container clearfix">
+<h1>Легкие клиенты для работы с сетевыми структурами</h1>
+
+
+
+<h2>Тонкий клиент для работы с человекомерными ассетами</h2>
+
+<figure>
+<a href="http://human.dei.su" target="_blank"><img src="img/icon-human.svg"></a>
+<br/>
+<a href="http://human.dei.su" target="_blank">HUMAN</a>
+<br/>
+<br/>
+<img src="img/wallets/human.png">
+<!-- https://mir.one/client/human -->
+<!-- https://github.com/mir-one/human -->
+</figure>
+
+
+<h2>Тонкий клиент для работы с ассетами МИР</h2>
+
+<figure>
+<a href="http://wallet.dei.su" target="_blank"><img src="img/icon-mir-wallet.svg"></a>
+<br/>
+<a href="http://wallet.dei.su" target="_blank">WALLET</a>
+<br/>
+<br/>
+<img src="img/wallets/mir.png">
+</figure>
+
+
+<h2>Другие примеры</h2>
+
+<center>
+<a href="https://github.com/mir-one/lightclient" target="_blank">github.com/mir-one/lightclient</a>
+</center>
+
+
+</div>
+</section>
+
+
 
 
 <section class="platform3">
