@@ -15,30 +15,28 @@ TokenId: 8Wj49jM8y9qfFx2QG6HxQXbiaxdnTt8EGm8mEqXJWFL4
 </p>
 
 <p id="app">
+DeiPriceUsd: <b>{{ deiPriceUsd }}</b>
+<br/><br/>
 Status: <span>{{ status }}</span>
 <br/>
 DeiPriceWaves: <span>{{ deiPriceWaves }}</span>
 <br/>
-WavesPriceUsd: <span>{{ wavesPriceUsd }}</span>
-<br/>
-DeiPriceUsd: <b>{{ deiPriceUsd }}</b>
-<br/>
 DeiVolume24h: {{ deiVolume24h }}
 <br/>
 Timestamp: {{ timestamp }} (marketdata.wavesplatform.com)
+<br/><br/>
+<b>Waves</b>
+<br/>
+WavesPriceUsd: <span>{{ wavesPriceUsd }}</span>
 <br/>
 Waves LastUpdated: {{ lastUpdated }} (api.coinmarketcap.com)
-
 <br/><br/>
-
 <b>Bitcoin</b>
 <br/>
 UpdatedTime: {{ btcUpdatedTime }}
 <br/>
 BitcoinPriceUsd: {{ btcPriceUsd }}
 </p>
-
-<div id="volume24h"></div>
 
 <p>
 Answer marketdata.wavesplatform.com used jQuery.
@@ -130,14 +128,6 @@ function r8(data){
 	});
 }
 
-function r9(data){
-	$.each(data, function(i, val){
-		if (i == "data") {
-			r8(val);
-		}
-	});
-}
-
 function refreshPrice1(){
 	$.ajax({
 		url: 'http://marketdata.wavesplatform.com/api/ticker/8Wj49jM8y9qfFx2QG6HxQXbiaxdnTt8EGm8mEqXJWFL4/waves',
@@ -168,7 +158,13 @@ function refreshPrice1(){
 	});
 	axios
 		.get('https://api.coinmarketcap.com/v2/ticker/1274/')
-		.then(response => (r9(response)));
+		.then(response => (
+			$.each(response, function(i, val){
+				if (i == "data") {
+					r8(val);
+				}
+			})
+		));
 	axios
 		.get('https://api.coindesk.com/v1/bpi/currentprice.json')
 		.then(response => (
@@ -178,7 +174,7 @@ function refreshPrice1(){
 				}
 			})
 		));
-	setTimeout(refreshPrice1, 10000);
+	setTimeout(refreshPrice1, 60000);
 }
 
 refreshPrice1();
