@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Price - DEI</title>
+</head>
+<body>
+
+<h1>Dei price</h1>
+
+<p>
+Get DEIP token price in waves and USD.
+<br/>
+TokenId: 8Wj49jM8y9qfFx2QG6HxQXbiaxdnTt8EGm8mEqXJWFL4
+</p>
+
+<p id="app">
+Status: <span>{{ status }}</span>
+<br/>
+DeiPriceWaves: <span>{{ deiPriceWaves }}</span>
+<br/>
+WavesPriceUsd: <span>{{ wavesPriceUsd }}</span>
+<br/>
+DeiPriceUsd: <b>{{ deiPriceUsd }}</b>
+<br/>
+DeiVolume24h: {{ deiVolume24h }}
+<br/>
+Timestamp: {{ timestamp }} (marketdata.wavesplatform.com)
+<br/>
+Waves LastUpdated: {{ lastUpdated }} (api.coinmarketcap.com)
+</p>
+
+<div id="volume24h"></div>
+
+<p>
+Answer marketdata.wavesplatform.com used jQuery.
+<br/>
+Answer api.coinmarketcap.com used axios (vue).
+</p>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/vue.js"></script>
+<script src="js/axios.js"></script>
+
+
+<script>
+var deiPriceUsd = 0;
+var deiPriceWaves = 0;
+var wavesPriceUsd = 0;
+
+function f(val){
+	if (typeof(val) == "undefined") return 0;
+	if (typeof(val) == "string") return parseFloat(val.replace(",", "."));
+	return parseFloat(val);
+}
+
+function r5(data){
+	$.each(data, function(i, val){
+		if (i == "price") {
+			wavesPriceUsd = f(val);
+			app.wavesPriceUsd = wavesPriceUsd;
+		}
+	});
+}
+
+function r6(data){
+	$.each(data, function(i, val){
+		if (i == "USD") {
+			r5(val);
+		}
+	});
+}
+
+function r7(data){
+	app.lastUpdated = "";
+	$.each(data, function(i, val){
+		if (i == "last_updated") {
+			app.lastUpdated = val;
+		}
+		if (i == "quotes") {
+			r6(val);
+		}
+	});
+}
+
+function r8(data){
+	$.each(data, function(i, val){
+		if (i == "data") {
+			r7(val);
+		}
+	});
+}
+
+function r9(data){
+	$.each(data, function(i, val){
+		if (i == "data") {
+			r8(val);
+		}
+	});
+}
+
+function refreshPrice1(){
+	$.ajax({
+		url: 'http://marketdata.wavesplatform.com/api/ticker/8Wj49jM8y9qfFx2QG6HxQXbiaxdnTt8EGm8mEqXJWFL4/waves',
+		dataType: 'json',
+		success: function(data, textStatus){
+			app.status = textStatus;
+			var volume24h = 0;
+			var vwap24h = 0;
+			var close24h = 0;
+			var low24h = 0;
+			var high24h = 0;
+			var open24h = 0;
+			$.each(data, function(i, val){
+				if (i == "timestamp") {
+					app.timestamp = val;
+				}
+				if (i == "24h_volume") { volume24h = f(val); }
+				if (i == "24h_vwap") { vwap24h = f(val); }
+				if (i == "24h_close") { close24h = f(val); }
+				if (i == "24h_low") { low24h = f(val); }
+				if (i == "24h_high") { high24h = f(val); }
+				if (i == "24h_open") { open24h = f(val); }
+			});
+			deiPriceWaves = (vwap24h + close24h + low24h + low24h + high24h + open24h) / 6;
+			app.deiPriceWaves = deiPriceWaves;
+			app.deiVolume24h = volume24h;
+		}
+	});
+	axios
+		.get('https://api.coinmarketcap.com/v2/ticker/1274/')
+		.then(response => (r9(response)));
+	setTimeout(refreshPrice1, 10000);
+}
+
+refreshPrice1();
+
+app = new Vue({
+	el: '#app',
+	data: {
+		status: "",
+		deiPriceUsd: "",
+		deiPriceWaves: "",
+		deiVolume24h: "",
+		lastUpdated: "",
+		timestamp: "",
+		wavesPriceUsd: ""
+	},
+	mounted() {
+		setTimeout(this.refreshPrice2, 1000);
+	},
+	methods: {
+		refreshPrice2: function(){
+			deiPriceUsd = deiPriceWaves * wavesPriceUsd;
+			this.deiPriceUsd = deiPriceUsd;
+			setTimeout(this.refreshPrice2, 5000);
+		}
+	}
+});
+</script>
+
+</body>
+</html>
