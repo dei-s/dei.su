@@ -2,26 +2,23 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="Reply-to" content="prof1983@yandex.ru" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes" />
 <meta name="description" content="Цифровая экономика, цифровая трансформация, цифровые платформы, экосистемы, блокчейн" />
 
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes" />
 <meta name="HandheldFriendly" content="True" />
 <meta name="format-detection" content="telephone=no" />
 <meta name="format-detection" content="address=no" />
 
-<link rel="shortcut icon" href="img/favicon.png" type="image/png" />
-
 <!-- Chrome, Firefox OS and Opera -->
 <meta name="theme-color" content="#242424" />
 <!-- Windows Phone -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="application-name" content="Институт Цифровой Экономики" />
 <meta name="msapplication-navbutton-color" content="#242424" />
 <!-- iOS Safari -->
 <meta name="apple-mobile-web-app-status-bar-style" content="#242424" />
 
+<link rel="shortcut icon" href="img/favicon.png" type="image/png" />
 <link rel="stylesheet" href="css/base.css" />
 <link rel="stylesheet" href="css/main.css" />
 <title>Институт Цифровой Экономики</title>
@@ -52,8 +49,8 @@
 
 
 
-<a name="libre"></a>
-<section class="libre">
+<a name="section0"></a>
+<section class="s-section0">
 <div class="container">
 <h1 class="h1">Институт <span>Цифровой Экономики</span></h1>
 <p style="text-align: center;">
@@ -78,12 +75,34 @@ Digital Economy Institute (DEI) of name Viktor Glushkov
 <img src="/img/struct2.png">
 </figure>
 
-<!--h1 class="h1">Проекты</h1>
-<a href="http://mir.dei.su"><b>МИР</b></a>
-<a href="http://projects.dei.su" target="_blank">
-<img src="img/icon-projects.svg" />
-PROJECTS
-</a-->
+
+<h2>Проекты и продукты</h2>
+
+<p>
+Институт Цифровой Экономки им Глушкова специализируется на R&D по децентрализованным экономическим платформам. Институт предоставляет услуги по следующим направлениям:
+</p>
+
+<ol>
+<li>НИР</li>
+<li>Образование, консультации и экспертиза</li>
+<li>Прикладная разработка экономических платформ</li>
+</ol>
+
+<ul style="text-align: left;">
+<li>Консультации</li>
+<li>Образовательные курсы</li>
+<li>Экономический протокол разных видов деятельности</li>
+<li>Лёгкие кастомизированные кошельки</li>
+<li>Разработка платформеных решений</li>
+<li>Разработка блокчейн-сетей под ключ</li>
+<li>Блокчейн-сети под ключ (коробочное решение)</li>
+<li>Программно-апаратный комплекс блокчейн-сети (кластер как коробочное решение на миникомпьютерах + блокчейн с PoS алгоритмом консенсуса + анкеринг)</li>
+</ul>
+
+<p>
+На всю продукцию предоставляется 50% скидка при перечисление эквивалента в виде токенов (учетных единиц) DEI из соотношения 1 уч.ед. = 1 токен = 1 руб. Например, если услуга стоит 20 тыс.руб, то достаточно оплатить лишь 10 тыс.руб при условии перечисления 10 тыс.уч.ед.
+</p>
+
 
 </div>
 </section>
@@ -91,8 +110,8 @@ PROJECTS
 
 
 
-<a name="ecosystem"></a>
-<section class="ecosystem">
+<a name="edu"></a>
+<section class="s-section s-section-edu">
 <div class="container">
 
 <h1 class="h1">Образовательные продукты <span>и информационные материалы</span></h1>

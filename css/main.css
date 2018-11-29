@@ -272,7 +272,7 @@ ul li:before {
  background:url(../img/bg_1.jpg) center no-repeat fixed;
  background-size:cover
 }
-.ecosystem,.platform1,.platform3 {
+.platform1,.platform3,.s-section-edu {
  background-color:#F0F0EB
 }
 .s-section2 {
@@ -322,13 +322,13 @@ ul li:before {
  position:relative;
  margin-bottom:53px
 }
-.libre {
+.s-section0 {
  text-align:center
 }
 .p_left {
 	text-align: left;
 }
-.ecosystem li,.ecosystem p,.platform1 li,.platform1 p,.s-section li,.s-section p,.platform3 li,.platform3 p {
+.platform1 li,.platform1 p,.platform3 li,.platform3 p,.s-section li,.s-section p {
 	text-align: left;
 }
 .team__list {
@@ -577,7 +577,7 @@ noscript {
 	}
 }
 @media only screen and (max-width:500px) {
-	.libre p,center {
+	center {
 		text-align:left
 	}
 	body,center,html,p,ol li,ul li {
