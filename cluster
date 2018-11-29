@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes" />
+<meta name="description" content="Цифровая экономика, цифровая трансформация, цифровые платформы, экосистемы, блокчейн" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="format-detection" content="address=no" />
+<meta name="theme-color" content="#242424" />
+<meta name="msapplication-navbutton-color" content="#242424" />
+<meta name="apple-mobile-web-app-status-bar-style" content="#242424" />
+<link rel="shortcut icon" href="img/favicon.png" type="image/png" />
+<link rel="stylesheet" href="css/base.css" />
+<title>Кластер - DEI</title>
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<article>
+
+<h1>Кластер</h1>
+
+<p>
+Блокчейн-сети под ключ (коробочное решение)
+</p>
+<p>
+Программно-апаратный комплекс блокчейн-сети (как коробочное решение с миникомпьютерами и блокчейн PoS алгоритмом консенсуса с анкерингом)
+</p>
+
+<figure>
+<img src="img/cluster/1.jpg">
+<br/>
+<img src="img/cluster/2.jpg">
+<br/>
+<img src="img/cluster/3.jpg">
+<br/>
+<img src="img/cluster/4.jpg">
+<br/>
+<img src="img/cluster/10.png">
+<br/>
+<img src="img/cluster/20.png">
+</figure>
+
+<!-- https://www.kickstarter.com/projects/diskiopi/diskio-pi-the-ultime-open-source-tablet-0/description -->
+
+</article>
+<footer></footer><script src="js/footer.js"></script>
+</body>
+</html>
