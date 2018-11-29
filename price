@@ -28,6 +28,14 @@ DeiVolume24h: {{ deiVolume24h }}
 Timestamp: {{ timestamp }} (marketdata.wavesplatform.com)
 <br/>
 Waves LastUpdated: {{ lastUpdated }} (api.coinmarketcap.com)
+
+<br/><br/>
+
+<b>Bitcoin</b>
+<br/>
+UpdatedTime: {{ btcUpdatedTime }}
+<br/>
+BitcoinPriceUsd: {{ btcPriceUsd }}
 </p>
 
 <div id="volume24h"></div>
@@ -48,6 +56,36 @@ Answer api.coinmarketcap.com used axios (vue).
 var deiPriceUsd = 0;
 var deiPriceWaves = 0;
 var wavesPriceUsd = 0;
+
+function btcRefreshBpi(data){
+	$.each(data, function(i, val){
+		if (i == "USD") {
+			$.each(val, function(i2, val2){
+				if (i2 == "rate_float") {
+					app.btcPriceUsd = f(val2);
+				}
+			});
+		}
+	});
+}
+
+function btcRefreshData(data){
+	$.each(data, function(i, val){
+		if (i == "time") {
+			btcRefreshTime(val);
+		} else if (i == "bpi") {
+			btcRefreshBpi(val);
+		}
+	});
+}
+
+function btcRefreshTime(data){
+	$.each(data, function(i, val){
+		if (i == "updatedISO") {
+			app.btcUpdatedTime = val;
+		}
+	});
+}
 
 function f(val){
 	if (typeof(val) == "undefined") return 0;
@@ -131,6 +169,15 @@ function refreshPrice1(){
 	axios
 		.get('https://api.coinmarketcap.com/v2/ticker/1274/')
 		.then(response => (r9(response)));
+	axios
+		.get('https://api.coindesk.com/v1/bpi/currentprice.json')
+		.then(response => (
+			$.each(response, function(i, val){
+				if (i == "data") {
+					btcRefreshData(val);
+				}
+			})
+		));
 	setTimeout(refreshPrice1, 10000);
 }
 
@@ -139,6 +186,8 @@ refreshPrice1();
 app = new Vue({
 	el: '#app',
 	data: {
+		btcPriceUsd: "",
+		btcUpdatedTime: "",
 		status: "",
 		deiPriceUsd: "",
 		deiPriceWaves: "",
