@@ -130,7 +130,7 @@ function r8(data){
 
 function refreshPrice1(){
 	$.ajax({
-		url: 'http://marketdata.wavesplatform.com/api/ticker/8Wj49jM8y9qfFx2QG6HxQXbiaxdnTt8EGm8mEqXJWFL4/waves',
+		url: 'https://marketdata.wavesplatform.com/api/ticker/8Wj49jM8y9qfFx2QG6HxQXbiaxdnTt8EGm8mEqXJWFL4/waves',
 		dataType: 'json',
 		success: function(data, textStatus){
 			app.status = textStatus;
