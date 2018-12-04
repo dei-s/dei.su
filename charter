@@ -1,27 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
-<meta charset="utf-8"/>
-<link rel="shortcut icon" href="img/favicon.png" type="image/png">
-<link rel="stylesheet" href="css/main.css">
+<meta charset="utf-8">
+<link rel="shortcut icon" type="image/png" href="img/favicon.png">
+<link rel="stylesheet" href="css/base.css">
 <title>Устав - DEI</title>
 </head>
 <body>
 <noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
 <header></header><script src="js/header.js"></script>
-<main>
+<article>
 
 <h1>Устав</h1>
 
 <p>
 <a href="https://docs.google.com/document/d/14OsgZKXQ8-EFRPv_5cq-8qp_BayK1HHeim6QX_BNZxQ/edit?usp=sharing" target="_blank">Устав на ГуглДиске</a>
+<br/>
+Короткая ссылка: <a href="https://clck.ru/EppzQ" target="_blank">clck.ru/EppzQ</a>
 </p>
 
 <p>
-<a href="https://github.com/libremir/law" target="_blank">Правила игры</a>
+<a href="https://docs.google.com/document/d/14OsgZKXQ8-EFRPv_5cq-8qp_BayK1HHeim6QX_BNZxQ/edit?usp=sharing" target="_blank">Протокол учредительного собрания на ГуглДиске</a>
+<br/>
+Короткая ссылка: <a href="https://clck.ru/Epq6K" target="_blank">clck.ru/Epq6K</a>
 </p>
 
-</main>
+<!--
+Учредительное собрание Института цифровой экономики им Глушкова В.М. (Digital Economy Institute, DEI) как общественной организации без получения прав юридического лица с голосованием на блокчейне с использованием токенов МИР.
+Просмотр транзакций доступен в кошельке: wallet.dei.su
+Так же просмотр транзакций доступен в кошельке персональных токенов: human.dei.su
+Дополнительно:
+https://youtu.be/KungdCQ5o_w - ч.1
+https://youtu.be/-O5iK2QZzm8 - ч.2
+https://youtu.be/6pHS3IRnUdg - ч.3
+-->
+
+<p>
+<a href="https://github.com/dei-s/law" target="_blank">Правила игры</a>
+</p>
+
+</article>
 
 </body>
 </html>
