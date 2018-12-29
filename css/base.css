@@ -304,6 +304,12 @@ p {
 	color: #bbb;
 	text-decoration: none;
 }
+.s-p {
+	text-align: center;
+}
+.s-p-container {
+	text-align: center;
+}
 @media only screen and (max-width:1080px) {
 	article {
 		font-size: 1.2rem;
