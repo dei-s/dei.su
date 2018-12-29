@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <link rel="shortcut icon" href="img/favicon.png" type="image/png">
-<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/base.css">
 <link rel="stylesheet" href="css/css.css" />
 <title>Проект МИР - DEI</title>
 </head>
@@ -12,7 +12,7 @@
 <nav></nav><script src="js/nav.js"></script>
 <body>
 
-<main>
+<article>
 
 <h1>Проект МИР</h1>
 
@@ -21,13 +21,21 @@
 </p>
 
 <p class="h">
-<a href="http://mir.one">mir.one</a>
+<a href="http://mir.one" target="_blank">mir.one</a>
 </p>
 
 <p class="h">
-<a href="http://mir.dei.su">mir.dei.su</a>
+<a href="http://mir.dei.su" target="_blank">mir.dei.su</a>
 </p>
 
+
+<h2>Блокчейн-сеть МИР</h2>
+
+<p>
+<a href="https://wallet.mir.dei.su" target="_blank">wallet.mir.dei.su</a> (<a href="https://github.com/dei-s/wallet.mir.dei.su">github</a>) - Легкий кошелёк
+<br/>
+<a href="https://github.com/mir-one/node" target="_blank">github.com/mir-one/node</a> - Нода
+</p>
 
 
 
@@ -40,7 +48,24 @@ id: <b>HdPJha3Ekn1RUR2K9RrY7SG9xK1b21AHPwkL8pcwTmSZ</b>
 </p>
 
 
-</main><script src="js/main.js"></script>
+<br/>
+
+
+<p class="h2">
+<a href="cluster">Кластер МИР</a>
+</p>
+
+<p class="h2">
+<a href="synergy">Проект MirSynergy</a>
+</p>
+
+
+<figure>
+<img src="img/earth/globe.png">
+</figure>
+
+
+</article>
 <footer></footer><script src="js/footer.js"></script>
 </body>
 </html>
