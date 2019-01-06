@@ -1,18 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
 <meta charset="utf-8"/>
 <meta name="description" content="Цифровая экономика, цифровая трансформация, цифровые платформы, экосистемы, блокчейн">
-<link rel="shortcut icon" href="/img/favicon.png" type="image/png">
-<link rel="stylesheet" href="/css/main.css">
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="stylesheet" href="css/base.css">
 <title>Литература - DEI</title>
 </head>
 <body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<article>
+
 <a href="/book">
 <h1>Книга "Цифровая Экономика"</h1>
 </a>
+
+<figure>
+<a href="book"><img src="book/img/00.jpg"></a>
+</figure>
+
 <p>
 <a href="https://docs.google.com/document/d/1oQN84IA9ApBs02mBoRUYJ81UoeLsehAXAu5YHySEB8M/edit?usp=sharing" targer="_blank">https://docs.google.com/document/d/1oQN84IA9ApBs02mBoRUYJ81UoeLsehAXAu5YHySEB8M/edit?usp=sharing</a>
 </p>
+
+</article>
+<footer></footer><script src="js/footer.js"></script>
 </body>
 </html>
