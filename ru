@@ -291,12 +291,106 @@ Digital Economy Institute (DEI) of name Viktor Glushkov
 </figure>
 
 
+<h2>Тонкий клиент для учета</h2>
+
+<p>
+Тонкий клиент для учета вкладов в проекты. Актуально для стартапов для определения справедливых долей каждого из участников в будущей компании и актуально для корпоративных команд для справедливого распределения премиального фонда за выплнение проекта.
+</p>
+
+<figure>
+<a href="http://buidl.dei.su">
+<img src="img/buidl.png">
+</a>
+<br/>
+<br/>
+<a href="http://buidl.dei.su">BUIDL</a>
+</figure>
+
+
+<h2>Тонкий клиент для докуменооборота</h2>
+
+<p>
+Посмотрите презентацию нашего проекта по документообороту: <a href="http://clck.ru/EugFu" target="_blank">http://clck.ru/EugFu</a>
+</p>
+
+<figure>
+<a href="http://docum.dei.su" target="_blank">
+<img src="img/docum1.png">
+</a>
+<br/>
+<a href="http://docum.dei.su" target="_blank">
+<img src="img/docum2.png">
+</a>
+<br/>
+<br/>
+<a href="http://docum.dei.su" target="_blank">DOCUM</a>
+</figure>
+
+
 <h2>Другие примеры</h2>
 
 <center>
 <a href="https://github.com/mir-one/lightclient" target="_blank">github.com/mir-one/lightclient</a>
 </center>
 
+
+</div>
+</section>
+
+
+
+
+<section class="platform1">
+<div class="container">
+
+<h1>Блокчейн МИР</h1>
+
+<figure>
+<a href="http://mir.dei.su" target="_blank">
+<img src="img/mir.png">
+</a>
+<br>
+<br>
+<a href="http://mir.dei.su" target="_blank">MIR</a>
+</figure>
+
+</div>
+</section>
+
+
+
+
+<section class="platform2">
+<div class="container">
+
+<h1>Кубсат MIR.CUBE</h1>
+
+<p>
+Железная составляющая большого проекта МИР - создание распределенных сетей и токенизации производственных и бизнес процессов.
+</p>
+
+<figure>
+<a href="http://cube.mir.dei.su" target="_blank">
+<img src="img/cube.jpg">
+</a>
+<br/>
+<br/>
+<a href="http://cube.mir.dei.su" target="_blank">cube.mir.dei.su</a>
+</figure>
+
+
+<h2>Видео про MIR и про MIR.CUBE</h2>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ZrSMD6hOsYk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/O_yVFv9QQbM" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+<figure>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/v7iKSmSFLQE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
 </div>
 </section>
