@@ -94,6 +94,21 @@ id: <b>xxxx</b>
 При появление внешнего финансирования будут выпущен инвестиционный токен Платформы проектов в кол-ве 100 млн единиц, которые будут распределены между держателями учетных единиц. Токены Платформы проектов не я дают права управления проктом, а дают право на получение части доходов (ориентировочно 20% от всех доходов платформы). При необходимости, юридически, Платформа проектов будет зарегисттрирована как юридическое лицо, где учредителями станут члены команды и инвесторы в долах пропорциональных вкладам, выраженных в учетных единицах. Остальные (внешние) держатели учетных единиц не участвуют при регистрации юридического лица.
 </p>
 
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54129994, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54129994" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 
 </article>
 <footer></footer><script src="js/footer.js"></script>
